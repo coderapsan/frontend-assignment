@@ -1,5 +1,6 @@
 {
   "name": "online-store",
+  "homepage": "https://github.com/coderapsan/online-store",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
